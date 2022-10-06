@@ -1,1 +1,23 @@
+---
+title: "Can't scroll on mobile"
+format:
+  revealjs:
+    touch: true
+    scrollable: true
+---
 
+## Slide 1
+
+I can scroll to this slide, but can't scroll any further on mobile.
+
+## Slide 2
+
+slide 2
+
+## Slide 3
+
+slide 3
+
+## Slide 4
+
+slide 4
