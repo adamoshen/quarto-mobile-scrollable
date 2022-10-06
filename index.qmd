@@ -1,5 +1,5 @@
 ---
-title: "Can't scroll on mobile"
+title: "Can't swipe on mobile"
 format:
   revealjs:
     touch: true
@@ -8,11 +8,15 @@ format:
 
 ## Slide 1
 
-I can scroll to this slide, but can't scroll any further on mobile.
+I can swipe to this slide, but can't swipe any further on mobile.
 
 ## Slide 2
 
 slide 2
+
+. . .
+
+blah
 
 ## Slide 3
 
